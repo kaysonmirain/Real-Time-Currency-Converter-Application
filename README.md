@@ -1,7 +1,5 @@
 # Real-Time Currency Converter Application
 
-![App Screenshot](screenshot.png)
-
 A simple and intuitive desktop application built with Python and Tkinter that provides real-time currency conversion rates.
 
 ## Features
